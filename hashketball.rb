@@ -130,8 +130,8 @@ end
  
 
 def num_points_scored(player_name)
- players= game_hash[:home][:players].(game_hash[:away][:players])
-  return players[player_name][:points]
+ 
+ 
 end
 
 def shoe_size(player_name)
