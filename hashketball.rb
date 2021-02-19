@@ -201,7 +201,6 @@ def big_shoe_rebounds
         shoes = player[:shoe]
         reboundss = player[:rebounds]
       end
-      end
     end
   end
   return reboundss
