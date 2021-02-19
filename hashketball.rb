@@ -161,10 +161,4 @@ def team_names
 end 
 
 def player_numbers(team_name)
-  nums = []
-  game_hash.each do |location, team_data|
-    if team_data[:team_name] == team_name
-    team_data.each do |key, value|
-      if key == :players
-        v
-def
+end
